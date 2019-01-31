@@ -46,10 +46,10 @@
 ### Software Engineer
 * [Software Test](computer-science/engineer/test/README.md)
 * [Software Development](computer-science/engineer/dev/README.md)
-* [Github](computer-science/engineer/github/README.md) 
 
 ### [Computer Architecture](computer-science/computer-arch/README.md)
 #### [Operation System](computer-science/computer-arch/os/README.md)
 * [Linux](computer-science/computer-arch/linux/README.md)
 
 ## [Resources](resource/README.md)
+* [Github](computer-science/resource/github/README.md) 
