@@ -29,8 +29,7 @@
 
 * [Java Pitfall](java-dev/java-pitfall/README.md)
 * [Java Cookbook](java-dev/java-cookbook/README.md)
-
-## [Java 规范](java-specification/README.md)
+* [Java 规范](java-dev/java-specification/README.md)
 
 ## Java 工程
 * [Java Spring](java-engineer/java-spring/README.md)
