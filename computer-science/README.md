@@ -8,10 +8,10 @@
 > * [http](computer-science/web/http/README.md)
 
 * [Cloud](internet/cloud/README.md)
-* [AI](internet/ai/README.md)
 * [Knowledge Graph](internet/knowledge-graph/README.md)
-
 * [Pay](internet/pay/README.md)
+
+### [AI](AI/README.md)
 
 ### Programe
 #### [Programming Language](computer-science/language/PL/README.md)
@@ -26,11 +26,9 @@
 * [RESTful](computer-science/programme/api/restful/README.md)
 #### [Design Patterns](design-patterns/README.md)
 
-### Software Achitecture
-* [Distributed](computer-science/software-arch/distributed-system/README.md)
+### [Software Achitecture](computer-science/software-arch/README.md)
+* [Distributed](computer-science/software-arch/arch-distributed/README.md)
 * [Microservice](computer-science/software-arch/microservice/README.md)
-
-* [HA](computer-science/software-arch/HA/README.md)
 
 #### [Infrastructure](computer-science/infrastructure/README.md)
 * [Cache](computer-science/infrastructure/objects/cache/README.md)
@@ -53,3 +51,5 @@
 ### [Computer Architecture](computer-science/computer-arch/README.md)
 #### [Operation System](computer-science/computer-arch/os/README.md)
 * [Linux](computer-science/computer-arch/linux/README.md)
+
+## [Resources](resource/README.md)
