@@ -6,6 +6,13 @@
 * CMS（Concurrent Mark Sweep）
 * G1（Garbage-First）
 
+### 对比
+```md
+并行 GC 面向吞吐量
+G1 则侧重于低延迟 GC
+```
+
+## 应用
 ```md
 Throughput 在 Java 9 之前是 JVM的默认GC。
 CMS 在 Java 9 中已经被废弃，但了解CMS的行为对理解G1会有一些帮助。

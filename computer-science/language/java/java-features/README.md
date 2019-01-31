@@ -20,6 +20,11 @@
 Java10中引入的var字段得到了增强，现在可以用在lambda表达式的声明中。
 如果lambda表达式的其中一个形式参数使用了var，那所有的参数都必须使用var。
 ```
+* String 优化
+```md
+"String::lines" 获取数据行数
+"String::strip" 来移除空格
+```
 
 ## Java 10
 * Local-Variable Type Inference （局部变量类型推断）- var 保留类型名称
