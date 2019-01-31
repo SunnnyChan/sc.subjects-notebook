@@ -18,6 +18,7 @@
 #### [Programming Language](computer-science/language/PL/README.md)
 * [Java](computer-science/language/java/README.md)
 * [PHP](computer-science/language/java/README.md)
+* [Python](computer-science/language/python/README.md)
 
 #### [Programming Paradigms](computer-science/programme/paradigms/README.md)
 * [OOP](computer-science/programme/paradigms/OOP/README.md)
