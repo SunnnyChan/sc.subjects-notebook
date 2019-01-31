@@ -8,7 +8,6 @@
 ## Methodology
 * [Cognitive Methodology](methodology/cognitive-methodology/README.md)
 * [Analytical Methodology](methodology/analytical-methodology/README.md)
-
 * [Google Methodology - WuJun](methodology/google-methodology/README.md) 
 
 ## [Mathematics](mathematics/README.md)
