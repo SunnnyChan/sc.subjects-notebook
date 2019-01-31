@@ -19,14 +19,17 @@
 * [PHP](computer-science/language/java/README.md)
 * [Python](computer-science/language/python/README.md)
 
-### []()
+#### [Data Structures and Algorithms](computer-science/programme/DS-Algo/README.md)
+
+#### [API](computer-science/programme/api/README.md)
+* [RESTful](computer-science/programme/api/restful/README.md)
+
+#### [Design Patterns](design-patterns/README.md)
 
 #### [Programming Paradigms](computer-science/programme/paradigms/README.md)
 * [OOP](computer-science/programme/paradigms/OOP/README.md)
 
-#### [API](computer-science/programme/api/README.md)
-* [RESTful](computer-science/programme/api/restful/README.md)
-#### [Design Patterns](design-patterns/README.md)
+#### [Coding]()
 
 ### [Software Achitecture](computer-science/software-arch/README.md)
 * [Distributed](computer-science/software-arch/arch-distributed/README.md)
