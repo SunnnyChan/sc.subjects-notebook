@@ -1,4 +1,4 @@
-# Sunny's Study Notes
+# Sunny's NoteBook
 
 ## Computer Science
 ### Internet Domains
