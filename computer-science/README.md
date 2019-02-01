@@ -1,60 +1,57 @@
 # Computer Science
 
-### Internet Domains
-* [Bigdata](computer-science/bigdata/README.md)
-
-* [Web](computer-science/web/README.md)
-> * [nginx](computer-science/web/nginx/README.md)
-> * [http](computer-science/web/http/README.md)
-
+### Technique
+* [Bigdata](bigdata/README.md)
+* [Web](web/README.md)
 * [Cloud](internet/cloud/README.md)
-* [Knowledge Graph](internet/knowledge-graph/README.md)
+* [AI](AI/README.md)
+* [Knowledge Graph（KG）](internet/knowledge-graph/README.md)
+
+### Internet Domains
 * [Pay](internet/pay/README.md)
 
-### [AI](AI/README.md)
-
 ### Programe
-#### [Programming Language](computer-science/language/PL/README.md)
-* [Java](computer-science/language/java/README.md)
-* [PHP](computer-science/language/java/README.md)
-* [Python](computer-science/language/python/README.md)
+#### [Programming Language](language/PL/README.md)
+* [Java](anguage/java/README.md)
+* [PHP](language/java/README.md)
+* [Python](language/python/README.md)
 
-#### [Data Structures and Algorithms](computer-science/programme/DS-Algo/README.md)
+#### [Data Structures and Algorithms](programme/DS-Algo/README.md)
 
-#### [API](computer-science/programme/api/README.md)
-* [RESTful](computer-science/programme/api/restful/README.md)
+#### [API](programme/API/README.md)
+* [RESTful](https://github.com/SunnnyChan/sc.study-notes/tree/master/computer-science/web/web-APIs/restful)
 
 #### [Design Patterns](design-patterns/README.md)
 
-#### [Programming Paradigms](computer-science/programme/paradigms/README.md)
-* [OOP](computer-science/programme/paradigms/OOP/README.md)
+#### [Programming Paradigms](programme/paradigms/README.md)
+* [OOP](programme/paradigms/OOP/README.md)
 
 #### [Coding]()
 
-### [Software Achitecture](computer-science/software-arch/README.md)
-* [Distributed](computer-science/software-arch/arch-distributed/README.md)
-* [Microservice](computer-science/software-arch/microservice/README.md)
+### [Software Achitecture](software-arch/README.md)
+* [Distributed](software-arch/arch-distributed/README.md)
+* [Microservice](software-arch/microservice/README.md)
 
-#### [Infrastructure](computer-science/infrastructure/README.md)
-* [Cache](computer-science/infrastructure/objects/cache/README.md)
-* [MQ](computer-science/infrastructure/objects/mq/README.md)
+#### [Infrastructure](infrastructure/README.md)
+* [Cache](infrastructure/objects/cache/README.md)
+* [MQ](infrastructure/objects/mq/README.md)
 
-#### [Database](computer-science/database/README.md)
-* [MySQL](computer-science/database/mysql/README.md)
+#### [Database](database/README.md)
+* [MySQL](database/mysql/README.md)
 
 ### Basic Techniques
-* [Serialization](computer-science/cookbook/serialization/README.md)
-* [Regular Expression](computer-science/cookbook/regular-express/README.md)
-* [Charset](computer-science/cookbook/charset/README.md)
-* [CODEC](computer-science/cookbook/CODEC/README.md)
+* [Serialization](ookbook/serialization/README.md)
+* [Regular Expression](cookbook/regular-express/README.md)
+* [Charset](cookbook/charset/README.md)
+* [CODEC](cookbook/CODEC/README.md)
 
 ### Software Engineer
-* [Software Test](computer-science/engineer/test/README.md)
-* [Software Development](computer-science/engineer/dev/README.md)
+* [Software Test](engineer/test/README.md)
+* [Software Development](engineer/dev/README.md)
 
-### [Computer Architecture](computer-science/computer-arch/README.md)
-#### [Operation System](computer-science/computer-arch/os/README.md)
-* [Linux](computer-science/computer-arch/linux/README.md)
+### [Computer Architecture](computer-arch/README.md)
+#### [Operation System](computer-arch/os/README.md)
+* [Linux](computer-arch/linux/README.md)
 
 ## [Resources](resource/README.md)
-* [Github](computer-science/resource/github/README.md) 
+* [Github](resource/github/README.md) 
