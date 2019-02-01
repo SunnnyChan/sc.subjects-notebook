@@ -25,7 +25,7 @@ RESTful可以通过一套统一的接口为 Web、iOS和Android提供服务，
 另外对于很多平台来说（比如像Facebook，Twiter、微博、微信等开放平台），
 它们不需要有显式的前端，只需要一套提供服务的接口，于是RESTful便是它们最好的选择。
 ```
-* [参考 Web 架构 前后端分离]()
+* [参考 Web 架构 前后端分离](https://github.com/SunnnyChan/sc.study-notes/blob/master/computer-science/web/web-arch/WhatIs/README.md)
 ## Cases
 
 
