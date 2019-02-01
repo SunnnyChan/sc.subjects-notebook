@@ -15,5 +15,7 @@
 
 ## References
 ### Books
+* [* Fluent Python](https://github.com/twtrubiks/fluent-python-notes)
+
 * [Automate the Boring Stuff with Python](https://github.com/SunnnyChan/sc-ebooks/tree/master/python)
 
