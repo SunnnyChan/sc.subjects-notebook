@@ -19,7 +19,7 @@
 ### [Data Structures and Algorithms](programme/DS-Algo/README.md)
 
 ### [API](programme/API/README.md)
-* [RESTful](https://github.com/SunnnyChan/sc.study-notes/tree/master/computer-science/web/web-APIs/restful)
+* [RESTful API](https://github.com/SunnnyChan/sc.study-notes/tree/master/computer-science/web/web-APIs/restful)
 
 ### [Design Patterns](design-patterns/README.md)
 
