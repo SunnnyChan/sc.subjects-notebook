@@ -1,10 +1,10 @@
-# Java Spring
-
-* [Spring MVC]
+# [Java Spring](https://spring.io)
+```md
+Spring最重要的特征是依赖注入。
+```
 * [Spring AOP]
-* [Spring Security]
 
-* [Spring Boot]
+## [Projects](project/README.md)
 
 ## Reference
 * [Spring Tutorial](https://howtodoinjava.com/spring-boot-tutorials/)
