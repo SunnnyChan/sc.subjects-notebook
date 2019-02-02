@@ -27,7 +27,5 @@
 ## Components
 * [Apache Kafka](components/kafka/README.md)
 
-* [Apache ZooKeeper]((components/zookeeper/README.md))
-
 ## Miscs
 * [Data Algorithms](data-algorithms/README.md)

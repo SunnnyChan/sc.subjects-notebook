@@ -34,7 +34,7 @@
 
 ## [Infrastructure](infrastructure/README.md)
 * [Cache](infrastructure/objects/cache/README.md)
-* [MQ](infrastructure/objects/mq/README.md)
+* [MQ](infrastructure/objects/MQ/README.md)
 
 ## [Database](database/README.md)
 * [MySQL](database/mysql/README.md)
