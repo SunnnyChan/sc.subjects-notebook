@@ -4,7 +4,7 @@
 * [MySQL](mysql/README.md)
 * [MariaDB](https://www.tuicool.com/articles/fUniAbQ)
 
-## NoSQL
+## K-V DBMS
 * [Redis](redis/README.md)
 
 ## Development
