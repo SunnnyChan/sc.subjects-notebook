@@ -6,3 +6,6 @@
 
 
 * [JVM Tools](jvm-tools/README.md)
+
+## Resources
+* [awesome-jvm](https://github.com/deephacks/awesome-jvm)

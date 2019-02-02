@@ -8,4 +8,5 @@
 ## Implement
 
 
-## 参考
+## Resources
+* [awesome-rest](https://github.com/marmelab/awesome-rest)

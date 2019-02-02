@@ -42,8 +42,6 @@
 * [Software Development & Entrepreneurship Tutorials](http://tutorials.jenkov.com/)
 
 * [awesome-java](https://github.com/akullpp/awesome-java)
-* [JavaGuide](https://github.com/Snailclimb/JavaGuide)
-> 一份Java学习指南，涵盖大部分Java程序员所需要掌握的核心知识
 * [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
 ## Code
