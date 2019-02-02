@@ -53,5 +53,7 @@
 ### [Operation System](computer-arch/os/README.md)
 * [Linux](computer-arch/linux/README.md)
 
+## [Tools](tools/README.md)
+
 ## [Resources](resource/README.md)
 * [Github](resource/github/README.md) 
