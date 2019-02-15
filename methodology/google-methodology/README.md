@@ -5,9 +5,10 @@ Start From : 2018-10-25
 ```
 
 ## 智能时代的方法论
-### [计算机方法论]()
+### [计算机方法论](computer/README.md)
+* [Amdahl's Law](computer/Amdahl.md)
 
-### [认知方法论]()
+### [认知方法论](cognitive/README.md)
 * [J曲线和滞后效应](cognitive/histeresis-effect.md)
 
 ## 对待世界的态度 和 工作方法
