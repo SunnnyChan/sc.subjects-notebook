@@ -8,7 +8,7 @@
 * 线程交互方式
 * 线程安全
 
-## [线程工具](thread-utils/README.md)
+## [线程工具](thread-tools/README.md)
 * 线程同步控制
 * 线程池 ThreadPool
 * 并发容器
