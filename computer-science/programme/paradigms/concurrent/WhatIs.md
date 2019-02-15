@@ -1,12 +1,4 @@
-# Concurrent Programming
-
-## [Concurrent Model](model/README.md)
-* 多进程
-* 多线程
-* 基于异步的并发
-* 基于I/O多路复用的并发
-* 协程（coroutine）
-
+# What Is Concurrent Programming ？
 ## 并发级别
 * 阻塞
 ```md
@@ -33,12 +25,16 @@
 但存在低级别的线程一直处于饥饿状态，无等待则要求所有线程必须在有限步骤内完成退出，
 让低级别的线程有机会执行，从而保证所有线程都能运行，提高并发度。
 ```
-
-## Concurrent Control
-
 ## 并发效率
-
-
-## Implement
-* [Java 多线程并发](https://github.com/SunnnyChan/sc.study-notes/tree/master/computer-science/language/java/java-paradigm/java-concurrency)
-
+* Amdahl
+```md
+S=1/(1-a+a/n)
+其中，a为并行计算部分所占比例，n为并行处理结点个数。
+这样，当1-a=0时，(即没有串行，只有并行)最大加速比s=n；
+当a=0时（即只有串行，没有并行），最小加速比s=1；
+当n→∞时，极限加速比s→ 1/（1-a），这也就是加速比的上限。
+```
+* Gustafson
+```md
+系统优化某部件所获得的系统性能的改善程度，取决于该部件被使用的频率，或所占总执行时间的比例。
+```

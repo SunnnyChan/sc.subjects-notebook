@@ -2,7 +2,7 @@
 
 ## Java 编程范式
 * [Java OOP](java-paradigm/java-OOP/README.md)
-* [Java Concurrency](java-paradigm/java-concurrency/README.md)
+* [Java Concurrency](java-concurrency/README.md)
 * [Java FP](java-paradigm/java-FP/README.md)
 * [Reactive Programming]()
 
