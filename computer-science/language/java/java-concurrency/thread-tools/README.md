@@ -33,7 +33,7 @@ Condition从拥有监控方法（wait,notify,notifyAll）的Object对象中抽�
 和锁对比起来，如果说用Lock代替synchronized，那么Condition就是用来代替Object本身的监控方法。
 
 Condition实例跟Object本身的监控相似，同样提供wait()方法让调用的线程暂时挂起让出资源，
-知道其他线程通知该对象转态变化，才可能继续执行。
+直到其他线程通知该对象转态变化，才可能继续执行。
 Condition实例来源于Lock实例，通过Lock调用newCondition()即可。
 Condition较Object原生监控方法，可以保证通知顺序。
 ```
@@ -61,6 +61,7 @@ CyclicBarrier是加强版的CountDownLatch，上面讲的是一次性“关门�
 * LockSupport
 ```md
 LockSupport是用来创建锁和其他同步类的基本线程阻塞原语。
+
 LockSupport中的park() 和 unpark() 的作用分别是阻塞线程和解除阻塞线程，
 而且park()和unpark()不会遇到“Thread.suspend 和 Thread.resume所可能引发的死锁”问题。
 因为park() 和 unpark()有许可的存在；
@@ -79,4 +80,8 @@ Vector
 HashTable
 ... ... 
 ```
+
+## Reference
+* [Java Source Code](https://github.com/SunnnyChan/sc.drill-code/tree/master/java)
+
 
