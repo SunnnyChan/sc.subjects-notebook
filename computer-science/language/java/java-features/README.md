@@ -1,7 +1,7 @@
 # Java 语言特性
 
-* [Java Exception](java-language-features/Exception.md)
-* [Java Reflect](java-language-features/Reflect.md)
+* [Java Exception](Java-features/Exception.md)
+* [Java Reflect](Java-features/Reflect.md)
 
 ## Java 11
 * 支持 Unicode 10.0
@@ -31,15 +31,38 @@ Java10中引入的var字段得到了增强，现在可以用在lambda表达式�
 * Local-Variable Type Inference （局部变量类型推断）- var 保留类型名称
 * Optional 类添加了新的方法 orElseThrow - 相比于已经存在的get方法，这个方法更推荐使用。
 
-## Java 9
-* Java Platform Module System
+## [Java 9](https://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-C23AFD78-C777-460B-8ACE-58BE5EA681F6)
+* 模块化系统–Jigsaw 项目
 * 支持私有接口方法
-* 交互式命令行控制台
-* diamond语法与匿名内部类结合使用
-* 下划线_不能单独作为变量名使用
+* 垃圾收集机制 - G1设为默认的垃圾回收器实现
+* JShell–Java 9 REPL - 交互式编程环境
+```md
+REPL是一种快速运行语句的命令行工具
+```
+* 不可变集合工厂方法
+* I/O 流新特性
+* ***[响应式流](Java9/FlowAPI/README.md)***
+* 多分辨率图像API–JEP 251
+* 进程 API 的改进
+```md
+迄今为止，通过Java来控制和管理操作系统的进程的能力有限。
+```
+* 钻石（diamond）操作符范围的延伸
+* 统一的JVM日志
+* 多版本兼容 JAR 包
+* 注释 SafeVarargs 范围的延伸
+* ***HTTP 2 客户端***
+* 轻量级的 JSON API - 内置了一个轻量级的JSON API
+* 多分辨率图像 API
+* 改进的弃用注解 @Deprecated
+* 改进钻石操作符(Diamond Operator) 
+* 改进的 Stream API
+* 改进 try-with-resources
+* 改进 Optional 类
+* 改进的 CompletableFuture API
 * Javadoc 优化
 ```md
-1. 简化Doclet API
+1. 简化 Doclet API
 2. 支持生成HTML5格式
 3. 加入了搜索框，使用这个搜索框可以查询程序元素、标记的单词和文档中的短语。
 4. 支持新的模块系统。
@@ -54,9 +77,9 @@ Java10中引入的var字段得到了增强，现在可以用在lambda表达式�
 * 支持Unicode 8.0，在JDK8中是Unicode 6.2
 
 ## Java 8
-* [Default Methods](Java8_Default-Methods.md)
-* [Lambda Expressions]()
-* [Stream API]()
+* ***[Default Methods](Java8/Default-Methods.md)***
+* ***[Lambda Expressions]()***
+* ***[Stream API]()***
 * Method references
 * Repeating Annotations 
 * Type Annotation
@@ -81,9 +104,9 @@ Java10中引入的var字段得到了增强，现在可以用在lambda表达式�
 * Scripting - 让其他语言在java平台上运行
 
 ## Java 5
-* [Generics](Java5_Generics/README.md)
-* [Typesafe Enums]()
-* [Annotation]()
+* ***[Generics](Java5/Generics/README.md)***
+* ***[Typesafe Enums]()***
+* ***[Annotation]()***
 * Varargs （可变参数）
 * Static Import （静态导入）
 * java.util.concurrent
