@@ -1,6 +1,6 @@
 # Softerware Architecture
 
-## 
+## Architecture Style
 * [Distributed](arch-distributed/README.md)
 * [Microservice](microservice/README.md)
 
