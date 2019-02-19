@@ -1,2 +1,0 @@
-# Web Architecture Practice
-

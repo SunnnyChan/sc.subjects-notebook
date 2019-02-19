@@ -1,3 +1,0 @@
-# MQ Develop
-
-* [MQ Design]()
