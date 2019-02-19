@@ -32,7 +32,7 @@ Java10中引入的var字段得到了增强，现在可以用在lambda表达式�
 * Optional 类添加了新的方法 orElseThrow - 相比于已经存在的get方法，这个方法更推荐使用。
 
 ## [Java 9](https://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-C23AFD78-C777-460B-8ACE-58BE5EA681F6)
-* 模块化系统–Jigsaw 项目
+* 模块化系统 – Jigsaw 项目
 * 支持私有接口方法
 * 垃圾收集机制 - G1设为默认的垃圾回收器实现
 * JShell–Java 9 REPL - 交互式编程环境
