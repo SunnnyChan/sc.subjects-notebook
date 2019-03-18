@@ -1,5 +1,7 @@
 # Sunny's NoteBook
 
+## [互联网行业](internet/README.md)
+
 ## Methodology
 * [Cognitive Methodology](methodology/cognitive-methodology/README.md)
 * [Analytical Methodology](methodology/analytical-methodology/README.md)
