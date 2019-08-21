@@ -1,15 +1,19 @@
 # Sunny's NoteBook
 
-## Methodology
+## 方法论 Methodology
 * [Cognitive Methodology](methodology/cognitive-methodology/README.md)
 * [Analytical Methodology](methodology/analytical-methodology/README.md)
 * [Google Methodology - WuJun](methodology/google-methodology/README.md) 
 
-## Management
-* [Technical Leader](management/technical-leader/README.md)
+## [管理学 Management](MGT/README.md)
 
-## [Psychology](psychology/README.md)
+## [逻辑学 Logic](Logic/README.md)
 
-## [Mathematics](mathematics/README.md)
+## [心理学 Psychology](Psychology/README.md)
 
-## [English](english/README.md)
+## [数学 Mathematics](Mathematics/README.md)
+
+## [英语 English](English/README.md)
+
+## Sunny
+* [TL （Technical Leader）](sunny/technical-leader/README.md)
