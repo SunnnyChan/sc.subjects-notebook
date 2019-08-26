@@ -1,11 +1,13 @@
-# Technical Leader
+# [优秀的技术Leader“图谱”](http://www.sohu.com/a/280416703_463994)
 
-![](pic/atlas.jpeg)
+![](_pic/atlas.jpeg)
 ## 维度
-* 从管事到管人
-![](pic/atlas-1.png)
-* 从定方向到拿结果
-![](pic/atlas-2.png)
+* 从管事到管人 
+![](__pic/atlas-1.png)
+
+* 从定方向到拿结果 
+![](_pic/atlas-2.png)
+
 ## 模块
 * [时间管理](Time-Mgt.md)
 * [项目管理](PM.md)
@@ -17,6 +19,3 @@
 * [人才招募](Recruitment.md)
 * [人才培养](talent-training.md)
 * [团队建设](Team-Building.md)
-
-## 参考
-* [优秀的技术Leader“图谱”](http://www.sohu.com/a/280416703_463994)

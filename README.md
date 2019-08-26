@@ -6,6 +6,7 @@
 * [Google Methodology - WuJun](methodology/google-methodology/README.md) 
 
 ## [管理学 Management](MGT/README.md)
+* [TL （Tech Leader）](MGT/TL/README.md)
 
 ## [逻辑学 Logic](Logic/README.md)
 
@@ -16,4 +17,3 @@
 ## [英语 English](English/README.md)
 
 ## Sunny
-* [TL （Technical Leader）](sunny/technical-leader/README.md)
