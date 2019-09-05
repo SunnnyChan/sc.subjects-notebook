@@ -35,10 +35,14 @@
 * 授权管理
 * 冲突管理
 * 文化管理
+* 招聘管理
 * ...
 
+###
 * [高绩效教练](Team/GROW/README.md)
+
 ## [个人管理]()
-* 时间管理
+* [领导力](Personal/Leadership/README.md)
+* [时间管理](Personal/Time-Mgt/README.md)
 
 
