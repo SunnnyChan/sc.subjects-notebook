@@ -31,11 +31,11 @@
 * [OKR](Objective/OKR/README.md)
 
 ## [企业管理](Business/README.md)
-## [团队管理])()
+## [团队管理]()
 * 授权管理
 * 冲突管理
 * 文化管理
-* 招聘管理
+* [招聘管理](Team/MGT-Recruitment/README.md)
 * ...
 
 ###
