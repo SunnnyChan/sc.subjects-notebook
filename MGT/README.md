@@ -2,8 +2,6 @@
 ```md
 管理学是一门综合性的交叉学科，是系统研究管理活动的基本规律和一般方法的科学。
 ```
-## 理论
-* [组织行为学 (Organizational Behavior)](Org-Behavior/README.md)
 
 ## 
 * [PDCA](PDCA/README.md)

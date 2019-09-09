@@ -9,6 +9,8 @@
 
 ## [逻辑学 Logic](Logic/README.md)
 
+## [组织行为学 (Organizational Behavior)](Org-Behavior/README.md)
+
 ## [心理学 Psychology](Psychology/README.md)
 
 ## [数学 Mathematics](Mathematics/README.md)
