@@ -34,6 +34,7 @@
 * 冲突管理
 * 文化管理
 * [招聘管理](Team/MGT-Recruitment/README.md)
+* [会议管理](Team/MGT-Meeting/README.md)
 * ...
 
 ###
