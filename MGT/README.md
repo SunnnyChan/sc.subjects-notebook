@@ -28,6 +28,9 @@
 * [KPI]()
 * [OKR](Objective/OKR/README.md)
 
+## 沟通管理
+
+
 ## [企业管理](Business/README.md)
 ## [团队管理]()
 * 授权管理
@@ -35,7 +38,7 @@
 * 文化管理
 * [招聘管理](Team/MGT-Recruitment/README.md)
 * [会议管理](Team/MGT-Meeting/README.md)
-* ...
+* [知识管理](Team/MGT-Knowledge/README.md)
 
 ###
 * [高绩效教练](Team/GROW/README.md)
