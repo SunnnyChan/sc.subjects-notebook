@@ -9,10 +9,11 @@
 	在处理的过程中我们需要借助我们大脑里面 已有的基础记忆，知识和经验信息 
 	即外在输入+内在知识经验共同进行处理加工和模式匹配后形成 有价值的输出
 ```
-* [结构化思维](Thought/Structured/README.md)
-* [成长型思维 (Growth Mindset)](Thought/Growth/README.md)
-* [六顶思维帽](Six-Thinking-Hats.md)
+### [结构化思维](Thought/Structured/README.md)
+### [成长型思维 (Growth Mindset)](Thought/Growth/README.md)
+### [六顶思维帽](Six-Thinking-Hats.md)
 
 ## 方法
-* [5W1H](method/5W1H.md)
-* [PDCA](method/PDCA.md)
+### [5W1H](method/5W1H.md)
+### [PDCA](method/PDCA.md)
+### [ECRS](method/ECRS.md)
