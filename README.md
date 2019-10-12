@@ -16,7 +16,7 @@ NoteBook
    * [<a href="Economics/README.md">经济学</a>](#经济学)
    * [<a href="Psychology/README.md">心理学 Psychology</a>](#心理学-psychology)
    * [<a href="Mathematics/README.md">数学 Mathematics</a>](#数学-mathematics)
-      * [<a href="Mathematics/Algebra/README.md">代数</a>  Algebra](#代数--algebra)
+      * [<a href="Mathematics/Algebra/README.md">代数</a>](#代数)
       * [<a href="Mathematics/NumberTheory/README.md">数论</a>](#数论)
       * [<a href="Mathematics/Discrete/README.md">离散数学</a>](#离散数学)
       * [<a href="Mathematics/Probability-and-Statistics/README.md">概率论与数理统计</a>](#概率论与数理统计)

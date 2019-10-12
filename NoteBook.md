@@ -19,7 +19,7 @@
 # [心理学 Psychology](Psychology/README.md)
 
 # [数学 Mathematics](Mathematics/README.md)
-## [代数](Mathematics/Algebra/README.md)  Algebra
+## [代数](Mathematics/Algebra/README.md)
 ## [数论](Mathematics/NumberTheory/README.md) 
 ## [离散数学](Mathematics/Discrete/README.md) 
 ## [概率论与数理统计](Mathematics/Probability-and-Statistics/README.md) 
