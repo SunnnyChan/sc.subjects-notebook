@@ -1,8 +1,8 @@
 
 # 方法论 Methodology
-## [认知方法论 Cognitive Methodology](methodology/cognitive-methodology/README.md)
-## [分析方法论 Analytical Methodology](methodology/analytical-methodology/README.md)
-## [Google 方法论 Google Methodology - WuJun](methodology/google-methodology/README.md) 
+## [认知方法论](methodology/cognitive/README.md)
+## [分析方法论](methodology/analytical/README.md)
+## [Google方法论 - 吴军](SpecialTopics/WuJun/google/README.md) 
 
 # [管理学 Management](MGT/README.md)
 ## 企业管理
@@ -31,6 +31,14 @@
 # [历史](History/README.md)
 
 # [英语 English](English/README.md)
+
+# 专题
+
+## 吴军
+
+### [Google方法论](SpecialTopics/WuJun/google/README.md) 
+### [科技史纲]()
+### [5G](SpecialTopics/WuJun/5G/README.md) 
 
 # [Sunny](Sunny/README.md)
 ## How Thinking
