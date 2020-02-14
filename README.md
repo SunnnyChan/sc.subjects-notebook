@@ -5,10 +5,6 @@
 Table of Contents
 =================
 
-   * [方法论 Methodology](#方法论-methodology)
-      * [<a href="methodology/cognitive/README.md">认知方法论</a>](#认知方法论)
-      * [<a href="methodology/analytical/README.md">分析方法论</a>](#分析方法论)
-      * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论 - 吴军</a>](#google方法论---吴军)
    * [<a href="MGT/README.md">管理学 Management</a>](#管理学-management)
       * [企业管理](#企业管理)
       * [目标管理](#目标管理)
@@ -28,6 +24,10 @@ Table of Contents
       * [<a href="Literature/AncientProse.md">古文</a>](#古文)
    * [<a href="History/README.md">历史</a>](#历史)
    * [<a href="English/README.md">英语 English</a>](#英语-english)
+   * [方法论 Methodology](#方法论-methodology)
+      * [<a href="methodology/cognitive/README.md">认知方法论</a>](#认知方法论)
+      * [<a href="methodology/analytical/README.md">分析方法论</a>](#分析方法论)
+      * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论 - 吴军</a>](#google方法论---吴军)
    * [专题](#专题)
       * [吴军](#吴军)
          * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论</a>](#google方法论)
