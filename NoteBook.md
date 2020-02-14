@@ -30,13 +30,13 @@
 # 方法论 Methodology
 ## [认知方法论](methodology/cognitive/README.md)
 ## [分析方法论](methodology/analytical/README.md)
-## [Google方法论 - 吴军](SpecialTopics/WuJun/google/README.md) 
+## [Google方法论 - 吴军](SpecialTopics/WuJun/Google/README.md) 
 
 # 专题
 
 ## 吴军
 
-### [Google方法论](SpecialTopics/WuJun/google/README.md) 
+### [Google方法论](SpecialTopics/WuJun/Google/README.md) 
 ### [5G](SpecialTopics/WuJun/5G/README.md) 
 
 ### [数学通识](SpecialTopics/WuJun/Math/README.md) 
