@@ -23,7 +23,7 @@
 ## [诗词](Literature/Poem.md)
 ## [古文](Literature/AncientProse.md)
 
-# [历史](History/README.md)
+# [史学](History/README.md)
 
 # [英语 English](English/README.md)
 
