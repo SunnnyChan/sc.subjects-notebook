@@ -34,11 +34,3 @@
 ### [模型分析](Methodology/analytical/Model/README.md)
 ## [Google方法论 - 吴军](SpecialTopics/WuJun/Google/README.md) 
 
-# 专题
-## 吴军
-### [Google方法论](SpecialTopics/WuJun/Google/README.md) 
-### [5G](SpecialTopics/WuJun/5G/README.md) 
-
-### [数学通识](SpecialTopics/WuJun/Math/README.md) 
-### [科技史纲]()
-
