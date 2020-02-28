@@ -42,9 +42,3 @@
 ### [数学通识](SpecialTopics/WuJun/Math/README.md) 
 ### [科技史纲]()
 
-# [Sunny](Sunny/README.md)
-## How Thinking
-## How Reading
-
-## PPT
-## Graph Drawing
