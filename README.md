@@ -33,8 +33,3 @@ Table of Contents
          * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论</a>](#google方法论)
          * [<a href="">科技史纲</a>](#科技史纲)
          * [<a href="SpecialTopics/WuJun/5G/README.md">5G</a>](#5g)
-   * [<a href="Sunny/README.md">Sunny</a>](#sunny)
-      * [How Thinking](#how-thinking)
-      * [How Reading](#how-reading)
-      * [PPT](#ppt)
-      * [Graph Drawing](#graph-drawing)
