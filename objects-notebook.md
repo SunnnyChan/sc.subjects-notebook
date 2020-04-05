@@ -13,24 +13,14 @@
 
 # [心理学 Psychology](Psychology/README.md)
 
-# [数学 Mathematics](Mathematics/README.md)
-## [代数](Mathematics/Algebra/README.md)
-## [数论](Mathematics/NumberTheory/README.md) 
-## [离散数学](Mathematics/Discrete/README.md) 
-## [概率论与数理统计](Mathematics/Probability-and-Statistics/README.md) 
+# [数学 Mathematics](https://github.com/SC-CS-KS/KS-Math)
+
+# [统计学](Statistics/)
 
 # 文学
-## [诗词](Literature/Poem.md)
-## [古文](Literature/AncientProse.md)
+## 诗词
+## 古文
 
 # [史学](History/README.md)
 
 # [英语 English](English/README.md)
-
-# 方法论 Methodology
-
-## [认知方法论](Methodology/cognitive/README.md)
-## [分析方法论](Methodology/analytical/README.md)
-### [模型分析](Methodology/analytical/Model/README.md)
-## [Google方法论 - 吴军](SpecialTopics/WuJun/Google/README.md) 
-

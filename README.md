@@ -1,4 +1,4 @@
-# NoteBook
+# 学科笔记
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
@@ -14,22 +14,11 @@ Table of Contents
    * [<a href="Org-Behavior/README.md">组织行为学 (Organizational Behavior)</a>](#组织行为学-organizational-behavior)
    * [<a href="Economics/README.md">经济学</a>](#经济学)
    * [<a href="Psychology/README.md">心理学 Psychology</a>](#心理学-psychology)
-   * [<a href="Mathematics/README.md">数学 Mathematics</a>](#数学-mathematics)
-      * [<a href="Mathematics/Algebra/README.md">代数</a>](#代数)
-      * [<a href="Mathematics/NumberTheory/README.md">数论</a>](#数论)
-      * [<a href="Mathematics/Discrete/README.md">离散数学</a>](#离散数学)
-      * [<a href="Mathematics/Probability-and-Statistics/README.md">概率论与数理统计</a>](#概率论与数理统计)
+   * [<a href="https://github.com/SC-CS-KS/KS-Math">数学 Mathematics</a>](#数学-mathematics)
+   * [<a href="Statistics/">统计学</a>](#统计学)
    * [文学](#文学)
-      * [<a href="Literature/Poem.md">诗词</a>](#诗词)
-      * [<a href="Literature/AncientProse.md">古文</a>](#古文)
-   * [<a href="History/README.md">历史</a>](#历史)
-   * [<a href="English/README.md">英语 English</a>](#英语-english)
-   * [方法论 Methodology](#方法论-methodology)
-      * [<a href="methodology/cognitive/README.md">认知方法论</a>](#认知方法论)
-      * [<a href="methodology/analytical/README.md">分析方法论</a>](#分析方法论)
-      * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论 - 吴军</a>](#google方法论---吴军)
-   * [专题](#专题)
-      * [吴军](#吴军)
-         * [<a href="SpecialTopics/WuJun/google/README.md">Google方法论</a>](#google方法论)
-         * [<a href="">科技史纲</a>](#科技史纲)
-         * [<a href="SpecialTopics/WuJun/5G/README.md">5G</a>](#5g)
+      * [诗词](#诗词)
+      * [古文](#古文)
+   * [<a href="History/README.md">史学</a>](#史学)
+   * [<a href="English/README.md">英语 English</a>](#英语-english)  
+
